@@ -1,2 +1,2 @@
 # ShopBridge
-thinkbridge dot net assignment
+Thinkbridge .net Web API assignment
